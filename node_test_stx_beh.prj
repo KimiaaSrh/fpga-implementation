@@ -1,0 +1,4 @@
+verilog isim_temp "CRC.v"
+verilog isim_temp "node.v"
+verilog isim_temp "node_test.v"
+verilog isim_temp "D:/xilinx/setUp/14.7/ISE_DS/ISE//verilog/src/glbl.v"
